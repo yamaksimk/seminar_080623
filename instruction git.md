@@ -21,3 +21,7 @@
 - Выводит список веток
 2. **git branch branch_name**
 - Создает новую ветку с именем branch_name 
+3. **git branch -d branch_name**
+- Удаляет любую ветку
+4. **git merge**
+- Слияние веток
