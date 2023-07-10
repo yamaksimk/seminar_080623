@@ -26,3 +26,6 @@
 
 - # Ветки 
 
+1. **git branch branch_name**
+
+- Создает новую ветку с именем branch_name 
